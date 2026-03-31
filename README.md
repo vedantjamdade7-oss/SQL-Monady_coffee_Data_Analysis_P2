@@ -1,8 +1,8 @@
 # ☕ Monday Coffee Data Analysis (SQL Project)
 
-![SQL Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Monday%20Coffee%20Analysis&fontSize=40&fontColor=ffffff)
+## Project Preview
 
----
+<img width="700" src="https://github.com/user-attachments/assets/4769cf54-538a-43a5-9386-8f5193a4dd71" />
 
 ## 📌 Project Overview
 
