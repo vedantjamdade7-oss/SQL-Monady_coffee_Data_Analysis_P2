@@ -2,7 +2,9 @@
 
 ## Project Preview
 
-<img width="700" src="https://github.com/user-attachments/assets/4769cf54-538a-43a5-9386-8f5193a4dd71" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4769cf54-538a-43a5-9386-8f5193a4dd71" width="100%">
+</p>
 
 ## 📌 Project Overview
 
