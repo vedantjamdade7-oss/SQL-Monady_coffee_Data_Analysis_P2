@@ -58,7 +58,7 @@ SELECT * FROM sales;
 ```
 ---
 
-# 📊 Key Analysis & Insights 
+# 📊 Data Analysis
 
 ## 🔹 1. Customer Distribution
 - Total customers in each city
