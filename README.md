@@ -48,7 +48,16 @@ The analysis simulates real-world data analyst tasks such as:
 # 📊 Key Analysis & Insights
 
 ## 🔹 1. Customer Distribution
-- Total customers in each city  
+- Total customers in each city
+```sql
+  -- Q1: Total Customers in Each City
+SELECT city_name,
+COUNT(DISTINCT(customer_id)) AS Total_Customers 
+FROM city c
+JOIN customers ct ON c.city_id=ct.city_id
+GROUP BY city_name
+ORDER BY Total_Customers DESC;
+
 
 ## 🔹 2. Product Pricing Analysis
 - Top 3 most expensive products  
