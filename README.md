@@ -246,37 +246,31 @@ LIMIT 3;
 
 ## 📌 Business Recommendations
 
-Based on the SQL analysis of the Monday Coffee dataset, the following business recommendations are proposed:
+Based on the analysis of the Monday Coffee dataset, the following recommendations are made:
 
 - 📈 **Focus on High-Performing Cities**  
-  Invest more in cities generating the highest revenue and customer base to maximize returns.
+  Cities like **[Pune], [Chennai], [Bangalore]** generate the highest revenue.  
+  These locations should be prioritized for expansion and marketing.
 
 - 🌍 **Target High-Potential Markets**  
-  Expand in cities with high population and coffee consumption but lower current sales.
+  Cities such as **[Delhi], [Mumbai]** have high population and coffee consumption potential  
+  but relatively lower sales, making them ideal for expansion.
 
 - ☕ **Promote Best-Selling Products**  
-  Increase marketing efforts for top-performing products to boost overall sales.
+  Top-selling products should be heavily marketed in cities like **[Cold Brew Coffee Pack (6 Bottles)] and [Ground Espresso Coffee (250g)]**  
+  to maximize revenue.
 
 - 💰 **Optimize Pricing Strategy**  
-  Adjust pricing or introduce combo offers for high-priced products to improve conversion rates.
-
-- 👥 **Improve Customer Retention**  
-  Implement loyalty programs and offers for repeat customers to increase lifetime value.
+  Premium products can be optimized in cities like **[Bangalore]**  
+  where customer spending is higher.
 
 - 📉 **Enhance Low-Performing Cities**  
-  Apply targeted marketing strategies and analyze customer preferences to improve performance.
-
-- 🏙️ **Align Cost with Revenue**  
-  Evaluate rent vs sales to ensure profitability and optimize store locations.
-
-- 📊 **Monitor Monthly Growth Trends**  
-  Track sales trends regularly to identify growth opportunities or declines early.
-
-- 🎯 **City-Wise Product Strategy**  
-  Customize product offerings based on top-selling items in each city.
+  Cities such as **[Lucknow], [Hyderabad]** show low sales and need targeted strategies  
+  like discounts, promotions, and local marketing.
 
 - 🚀 **Plan Data-Driven Expansion**  
-  Use market potential analysis to expand in the most profitable and scalable cities.
+  Based on overall analysis, expansion should focus on  
+  **[Top 3 Cities from Market Potential Analysis]**
 
 
 ---
