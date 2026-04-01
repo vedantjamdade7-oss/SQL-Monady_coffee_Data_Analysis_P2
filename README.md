@@ -257,7 +257,7 @@ Based on the analysis of the Monday Coffee dataset, the following recommendation
   but relatively lower sales, making them ideal for expansion.
 
 - ☕ **Promote Best-Selling Products**  
-  Top-selling products should be heavily marketed in cities like **[Cold Brew Coffee Pack (6 Bottles)] and [Ground Espresso Coffee (250g)]**  
+  Top-selling products should be heavily marketed in cities like **[Pune]**  
   to maximize revenue.
 
 - 💰 **Optimize Pricing Strategy**  
