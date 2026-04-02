@@ -2,6 +2,8 @@
 
 USE monday_coffee_db;
 
+--  Data Exploration --
+
 SHOW TABLES;
 
 
